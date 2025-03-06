@@ -309,3 +309,6 @@ Match DX styles
 .has-warning .dx-texteditor {
     background-color: rgba(168, 131, 50, 0.1); /* Light yellow background */
 }
+.mw-dx-normal-ctr.dx-texteditor.dx-state-readonly {
+	border-style: solid !important;
+}
