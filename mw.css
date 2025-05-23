@@ -312,3 +312,13 @@ Match DX styles
 .mw-dx-normal-ctr.dx-texteditor.dx-state-readonly {
 	border-style: solid !important;
 }
+
+.login-other-info{
+	margin-top: 10px;
+	font-size: 13px;
+
+}
+.login-other-info a{
+	color:#000000;
+	text-decoration: none;
+}
